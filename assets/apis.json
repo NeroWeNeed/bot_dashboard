@@ -1,0 +1,12 @@
+{
+    "apis": [
+        {
+            "name": "Kalpa",
+            "client_id": "875510056181985310",
+            "client_secret": "oASJkxJMwiH7Mc3g-c3F2clBysinkDMs",
+            "oauth": "https://discord.com/api/oauth2/authorize?client_id=875510056181985310&redirect_uri=github.neroweneed.kalpa%3A%2F%2Fcallback&response_type=code&scope=guilds",
+            "type": "discord"
+
+        }
+    ]
+}
